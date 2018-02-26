@@ -1,6 +1,8 @@
 1. Clone deepo repository
+```
 git clone https://github.com/ufoym/deepo.git ~/deepo
 cd ~/deepo/generator
+```
 
 2. Make Docker file with PyTorch and TensorFlow
 python generate.py Dockerfile2 jupyter pytorch tensorflow python==3.6 --cpu-only
