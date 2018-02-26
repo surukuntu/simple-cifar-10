@@ -1,4 +1,4 @@
-1. Clone deepo repository
+1. ###### Clone deepo repository
 ```
 git clone https://github.com/ufoym/deepo.git ~/deepo
 cd ~/deepo/generator
